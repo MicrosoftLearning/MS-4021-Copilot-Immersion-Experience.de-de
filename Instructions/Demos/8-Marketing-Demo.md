@@ -9,7 +9,7 @@ demo:
 
 **Szenario:**  
 
-Sie sind Operations Manager bei Contoso, der für die Verwaltung von Lieferantenbeschaffung und Projektausführung zuständig ist. Ihr Ziel ist es, frühere Anforderungen (RFPs) zu analysieren, die wichtigsten Auswahlkriterien zu extrahieren und eine neue Anforderung für eine bevorstehende Initiative zu entwickeln.
+Sie sind im Marketing eines Getränkeunternehmens tätig und haben das Ziel, Markttrends zu analysieren, eine Marketinganalyse zu erstellen und eine neue Social-Media-Kampagne zu entwickeln.
 
 ## Demoeinrichtung
 
@@ -61,7 +61,7 @@ Nutzen Sie Copilot Chat, um die Effektivität von vorgeschlagenen Social-Media-K
 
 1. Öffnen Sie einen Browser, und navigieren Sie zu [M365copilot.com](https://m365copilot.com/).
 
-1. Stellen Sie sicher, dass der Webmodus ausgewählt ist.
+1. Stellen Sie sicher, dass Webmodus ausgewählt ist.
 
     ![Screenshot der Registerkarte Webmodus.](../Prompts/Media/web-mode.png)
 
