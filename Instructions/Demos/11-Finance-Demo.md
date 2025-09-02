@@ -174,3 +174,5 @@ Verwenden Sie Copilot in Word, um finanzielle Einblicke in eine E-Mail für unse
     - Machen Sie es weniger formell
 
 1. Nachdem Sie fertig sind, können Sie **Beibehalten** wählen.
+
+[Zurück zum Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

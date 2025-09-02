@@ -118,3 +118,5 @@ Nutzen Sie Copilot Chat, um die Effektivität von vorgeschlagenen Social-Media-K
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+[Zurück zum Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)

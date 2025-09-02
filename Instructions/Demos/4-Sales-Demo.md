@@ -27,7 +27,7 @@ Die für diese Demo benötigten spezifischen Dateien sind:
 
 1. Öffnen Sie einen Browser, und navigieren Sie zu [M365copilot.com](https://m365copilot.com/).
 
-1. Stellen Sie sicher, dass der Webmodus ausgewählt ist.
+1. Stellen Sie sicher, dass Webmodus ausgewählt ist.
 
     ![Screenshot der Registerkarte Webmodus.](../Prompts/Media/web-mode.png)
 
@@ -64,7 +64,6 @@ Die für diese Demo benötigten spezifischen Dateien sind:
 1. Wählen Sie den Hyperlink, den Copilot für das neue Word-Dokument bereitstellt, um es zu öffnen.
 
 1. Nach dem Öffnen wählen Sie **Bearbeitung aktivieren** und schalten dann „AutoSave“ ein. Wählen Sie Ihr OneDrive-Konto aus, wenn Sie dazu aufgefordert werden.
-
 
 ### Copilot in Word
 
