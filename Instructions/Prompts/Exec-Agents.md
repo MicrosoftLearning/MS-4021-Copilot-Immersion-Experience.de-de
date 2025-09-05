@@ -61,7 +61,7 @@ Schlüsseln Sie die Herausforderung, die Sie in Aufgabe 1 identifiziert haben, 
 
     > **TIPP:** Denken Sie darüber nach, wo das Abrufen von Wissen Ihnen Zeit sparen oder Ihrem Team helfen würde, schnellere Entscheidungen zu treffen.
 
-### Aufgabe 3: Erkunden von Ideen zu KI-Lösungen mit Recherche-Agent
+### Aufgabe 3: Erkunden von Ideen zu KI-Lösungen mit Recherche-Agent
 
 Verwenden Sie **Recherche-Agent**, um zu erfahren, wie Copilot und Agents hilfreich sein könnten. Konzentrieren Sie sich auf Lösungen, die Wissen abrufen, organisieren oder zusammenfassen und nicht Aufgaben automatisieren. 
 
@@ -79,6 +79,8 @@ Verwenden Sie **Recherche-Agent**, um zu erfahren, wie Copilot und Agents hilfre
     ```
 
     > **TIPP:** Suchen Sie nach Möglichkeiten, bei denen ein Agent das Finden, Wiederverwenden oder Teilen von Wissen erleichtern könnte.
+
+    > **HINWEIS:** Die Recherche kann je nach Anfrage 5 bis 10 Minuten dauern. Die Antworten sind sehr detailliert. Während die Recherche läuft, können Sie denselben Prompt in Copilot Chat ausprobieren. Durch den Vergleich der beiden Ergebnisse können Sie gut erkennen, wie die beiden Tools die Aufgabe angehen.
 
 ### Aufgabe 4: Konzipieren Ihres Agents
 

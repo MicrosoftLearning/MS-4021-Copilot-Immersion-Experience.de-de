@@ -25,7 +25,7 @@ Verwenden Sie Copilot in Excel, um Vertriebsdaten zu analysieren, wichtige Trend
 
 1. Starten von Excel & Öffnen der Datei  
 
-1. Öffnen Sie **Finance_Sales_Analysis.xlsx** in Excel (entweder in Ihrem Browser oder in Ihrer Desktopanwendung).  
+1. Öffnen Sie **EV_Charger_Sales_Analysis_v1.xlsx** in Excel (entweder in Ihrem Browser oder in der Desktopanwendung).  
 
 1. Navigieren Sie zur Registerkarte **„Vertrieb nach Produkt“**.  
 
