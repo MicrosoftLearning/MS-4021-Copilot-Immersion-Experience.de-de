@@ -76,7 +76,7 @@ Anschließend vergleichen wir mithilfe von Copilot Chat die empfangenen Lebensl�
 
 1. Optional können Sie Copilot Chat auffordern, seine Antwort in ein Word-Dokument zu exportieren, um diese Funktion hervorzuheben.
 
-### Copilot in Outlook:
+### Copilot in Outlook
 
 Verwenden Sie schließlich Copilot in Outlook, um eine E-Mail an das Einstellungsteam zu verfassen, in der die besten Kandidaten genannt werden.
 
@@ -89,7 +89,7 @@ Verwenden Sie schließlich Copilot in Outlook, um eine E-Mail an das Einstellung
 1. In der **„Was soll in dieser E-Mail stehen?“** Prompt-Fenster, geben Sie Folgendes ein:
 
     ```text
-    Please draft an email to the hiring team to share that Nester Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
+    Please draft an email to the hiring team to share that Nestor Wilke and Patti Fernandez align best with the Senior Animation Designer role based on their qualifications. Include a recommendation to schedule interviews for these candidates and request feedback on next steps.
     ```
 
 [Zurück zum Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
