@@ -19,9 +19,9 @@ Für diese Demo sind keine Musterdokumente erforderlich.
 
 ### Copilot Chat
 
-Starten wir mit einer Untersuchung des KI-Gesetzes und seiner möglichen Auswirkungen auf das KI-Einstellungswerkzeug von Contoso.
+Zunächst werden die EU-Verordnung über künstliche Intelligenz und ihre potenzielle Auswirkungen auf das KI-Einstellungstool von Contoso beleuchtet.
 
-1. Öffnen Sie einen Browser, und navigieren Sie zu [M365copilot.com](https://m365copilot.com/).
+1. Öffnen Sie einen Browser, und navigieren Sie zu [M365Copilot.com](https://m365Copilot.com/).
 
 1. Vergewissern Sie sich, dass **Web-Modus** ausgewählt ist.
 
@@ -49,7 +49,7 @@ Starten wir mit einer Untersuchung des KI-Gesetzes und seiner möglichen Auswirk
     Are there any exemptions in the AI Act that could apply to Contoso’s system?
     ```
 
-1. Bitten Sie nun Copilot, alle bisherigen Informationen zusammenzufassen:
+1. Weisen Sie Copilot nun an, alle bisherigen Informationen zusammenzufassen:
 
     ```text
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
@@ -83,15 +83,15 @@ Jetzt entwerfen wir eine Zusammenfassung der Geschäftsleitung, in der rechtlich
     Add a section on the potential business impact of these compliance requirements.
     ```
 
-1. Weitere optionale Verfeinerungen:
+1. Weitere optionale Optimierungen:
 
-    - Bitten Sie Copilot, Abschnitte umzuformulieren, um einen professionelleren Ton zu erreichen.
+    - Weisen Sie Copilot an, Abschnitte für einen professionelleren Ton umzuformulieren.
     - Fordern Sie eine kürzere, präzisere Version an, wenn die Zusammenfassung zu lang ist.
     - Erweitern Sie mit zusätzlichen Abschnitten.
 
 1. Nach der Überprüfung und Fertigstellung des Dokuments **Kopieren Sie die erstellte Zusammenfassung** in Ihre Zwischenablage, um sie in der nächsten Demo zu verwenden.
 
-### Copilot in Outlook:
+### Copilot in Outlook
 
 Abschließend werden wir eine E-Mail an die Contoso-Führung verfassen, in der wir unsere Ergebnisse und die nächsten Schritte zusammenfassen.
 
