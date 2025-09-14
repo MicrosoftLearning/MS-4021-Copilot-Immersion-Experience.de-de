@@ -35,7 +35,7 @@ Wir beginnen mit der Durchsicht des Transkripts der letzten Telefonkonferenz zum
 
     ![Symbol Copilot in Word](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. Der Copilot-Bereich sollte sich öffnen. Geben Sie die folgende Eingabeaufforderung an der Stelle ein, an der **Fragen zu diesem Dokument** steht:
+1. Der Copilot-Bereich sollte sich öffnen. Geben Sie im Feld **+ Was soll Copilot entwerfen?** den folgenden Prompt ein:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ Wir beginnen mit der Durchsicht des Transkripts der letzten Telefonkonferenz zum
 1. Sobald Copilot die Analyse abgeschlossen hat, wählen Sie das Symbol **Kopieren**, um die Ergebnisse für den nächsten Schritt zu speichern.
 
     ![Ergebnisse kopieren.](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 
@@ -103,7 +102,7 @@ Der von Word bereitgestellte Bericht ist ein guter Ausgangspunkt, aber jetzt mö
     Based on the summarized executive summary, generate 5-7 concise and impactful talking points my manager can use in their next leadership call. Focus on key achievements, growth areas, and strategic priorities.
     ```
 
-### Copilot in Outlook:
+### Copilot in Outlook
 
 In dieser Demo verwenden wir Copilot in Outlook, um eine Besprechung mit der Führungskraft einzurichten, um sie über alles zu informieren, was während der Telefonkonferenz zum Ergebnis des zweiten Quartals passiert ist.
 
@@ -117,7 +116,7 @@ In dieser Demo verwenden wir Copilot in Outlook, um eine Besprechung mit der Fü
     I need to schedule a 30-minute meeting with [/Pick a colleague] tomorrow afternoon to discuss the Second Quarter Earnings Conference Call. Can you suggest a time that works? If they are unavailable, provide an alternative.
     ```
 
-1. Der Kopilot sollte eine Uhrzeit und ein Datum für die Besprechung vorschlagen. Die Eingabeaufforderung zeigt ein Kalenderelement an, das gesendet oder bearbeitet werden kann. Wählen Sie **Bearbeiten** aus.
+1. Der Copilot sollte eine Uhrzeit und ein Datum für die Besprechung vorschlagen. Die Eingabeaufforderung zeigt ein Kalenderelement an, das gesendet oder bearbeitet werden kann. Wählen Sie **Bearbeiten** aus.
 
 1. Wechseln Sie zum Terminplanungs-Assistenten, um zu zeigen, dass die von Copilot vorgeschlagene Zeit für die Projektmanagerin bzw. den Projektmanager passt. Sie sollten beide Zeit haben.
 
