@@ -35,7 +35,7 @@ Verwenden Sie Copilot in Word, um einen detaillierten Marktanalysebericht zu ers
 
 1. Öffnen Sie Word (entweder in Ihrem Browser oder in Ihrer Desktop-Anwendung).
 
-1. Geben Sie in das Prompt-Feld **Beschreiben Sie, was Sie schreiben möchten** Folgendes ein:
+1. Geben Sie im Promptfeld **Was soll Copilot entwerfen?** Folgendes ein:
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ Verwenden Sie Copilot in Word, um einen detaillierten Marktanalysebericht zu ers
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. Speichern Sie dieses neue Dokument als **LATAM_Market_Analysis.docx**.
+1. Wählen Sie im Fenster „Copilot“ die Option „Beibehalten“ aus, um das Dokument von einem Copilot-Entwurf in ein tatsächliches Word-Dokument zu ändern. Speichern Sie dieses neue Dokument anschließend als **LATAM_Market_Analysis.docx**.
 
 ### Copilot Chat
 
@@ -97,7 +97,7 @@ Nutzen Sie Copilot Chat, um die Effektivität von vorgeschlagenen Social-Media-K
 
 ### Copilot in Excel
 
-1. Vergewissern Sie sich, dass Sie [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) heruntergeladen haben und öffnen Sie das Dokument in Excel (entweder im Web oder in der Desktop-Anwendung).
+1. Vergewissern Sie sich, dass Sie [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) heruntergeladen haben, und öffnen Sie das Dokument in Excel (im Web oder in der Desktop-Anwendung).
 
 1. Wählen Sie **Copilot** im Menüband, um den Bereich „Copilot“ zu öffnen.
 

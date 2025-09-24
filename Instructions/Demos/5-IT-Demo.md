@@ -29,7 +29,7 @@ Starten wir damit, Copilot zu bitten, einen Projektdurchführungsplan zu erstell
 
 1. Öffnen Sie einen Browser, und navigieren Sie zu [M365copilot.com](https://m365copilot.com/).
 
-1. Stellen Sie sicher, dass der Webmodus ausgewählt ist.
+1. Stellen Sie sicher, dass Webmodus ausgewählt ist.
 
     ![Screenshot der Registerkarte Webmodus.](../Prompts/Media/web-mode.png)
 
@@ -57,7 +57,7 @@ Starten wir damit, Copilot zu bitten, einen Projektdurchführungsplan zu erstell
     Please export the project plan to a Word document.
     ```
 
-1. Speichern Sie das generierte Word-Dokument als **Project_Implementation_Plan.docx**. Kopieren Sie die freigegebene URL aus dem Dokument (aktivieren Sie AutoSave und wählen Sie Ihr OneDrive-Konto aus, falls Sie dazu aufgefordert werden).
+1. Wählen Sie den Link aus, den Copilot für die neu erstellte Datei bereitstellt, um sie in den Ordner „Downloads“ herunterzuladen. Verschieben Sie die Datei in Ihren OneDrive-Ordner, und öffnen Sie sie. Kopieren Sie die freigegebene URL aus dem Dokument (aktivieren Sie AutoSave und wählen Sie Ihr OneDrive-Konto aus, falls Sie dazu aufgefordert werden).
 
     ![Link teilen.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -67,7 +67,7 @@ Wir werden Copilot nun bitten, diese Strategien zu erläutern und Vorschläge zu
 
 1. Öffnen Sie Word (entweder in Ihrem Browser oder in Ihrer Desktop-Anwendung).
 
-1. Geben Sie in das Prompt-Feld **Beschreiben Sie, was Sie schreiben möchten** Folgendes ein:
+1. Geben Sie im Promptfeld **Was soll Copilot entwerfen?** Folgendes ein:
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
