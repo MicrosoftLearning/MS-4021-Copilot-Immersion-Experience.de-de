@@ -53,13 +53,13 @@ Schlüsseln Sie die Herausforderung, die Sie in Aufgabe 1 identifiziert haben, 
 - Wo werden Informationen aufgehalten oder gehen verloren?  
 - Wer ist am meisten betroffen?  
 
-    **Beispielprompt (Copilot Chat – Arbeitsmodus):**
+**Probieren Sie einen Prompt wie den folgenden aus:**
 
-    ```text
-    Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
-    ```
+```text
+Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
+ ```
 
-    > **TIPP:** Denken Sie darüber nach, wo das Abrufen von Wissen Ihnen Zeit sparen oder Ihrem Team helfen würde, schnellere Entscheidungen zu treffen.
+> **TIPP:** Denken Sie darüber nach, wo das Abrufen von Wissen Ihnen Zeit sparen oder Ihrem Team helfen würde, schnellere Entscheidungen zu treffen.
 
 ### Aufgabe 3: Erkunden von Ideen zu KI-Lösungen mit Recherche-Agent
 
@@ -68,7 +68,7 @@ Verwenden Sie **Recherche-Agent**, um zu erfahren, wie Copilot und Agents hilfre
 **Schritte**:
 
 - Öffnen Sie eine neue Browserregisterkarte, und navigieren Sie zu [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-- Erweitern Sie im Menü „Copilot Chat“ die Option **Agents**, und wählen Sie **Recherche-Agent** aus.  
+- Erweitern Sie im Menü „Copilot Chat“ die Option **Agents** (falls erforderlich), und wählen Sie **Recherche-Agent** aus.
 
     ![Screenshot: Auswahl von „Recherche-Agent“ im Menü „M365 Copilot“](../Prompts/Media/researcher.png)  
 
@@ -80,24 +80,24 @@ Verwenden Sie **Recherche-Agent**, um zu erfahren, wie Copilot und Agents hilfre
 
     > **TIPP:** Suchen Sie nach Möglichkeiten, bei denen ein Agent das Finden, Wiederverwenden oder Teilen von Wissen erleichtern könnte.
 
-    > **HINWEIS:** Die Recherche kann je nach Anfrage 5 bis 10 Minuten dauern. Die Antworten sind sehr detailliert. Während die Recherche läuft, können Sie denselben Prompt in Copilot Chat ausprobieren. Durch den Vergleich der beiden Ergebnisse können Sie gut erkennen, wie die beiden Tools die Aufgabe angehen.
+    > **HINWEIS:** Recherche-Agent kann je nach Anfrage 5 bis 10 Minuten (oder mehr) beanspruchen. Die Antworten sind sehr detailliert. Während die Recherche läuft, können Sie denselben Prompt in Copilot Chat ausprobieren. Durch den Vergleich der beiden Ergebnisse können Sie gut erkennen, wie die beiden Tools die Aufgabe angehen.
 
-### Aufgabe 4: Konzipieren Ihres Agents
+### Aufgabe 4: Erstellen des Agents
 
-Nutzen Sie nun Ihre Erkenntnisse, und erstellen Sie in **Copilot Studio** einen einfachen Modell-Agent. Konzentrieren Sie sich auf das Abrufen, damit Ihr Agent Informationen anzeigen, organisieren oder zusammenfassen kann.
+Nutzen Sie nun Ihre Erkenntnisse, und erstellen Sie in **Copilot Studio Lite** einen einfachen Modell-Agent. Konzentrieren Sie sich auf das Abrufen, damit Ihr Agent Informationen anzeigen, organisieren oder zusammenfassen kann.
 
 **Schritte**:
 
-- **Starten in Copilot Studio**
+- **Start in Copilot Studio Lite**
 
     1. Öffnen Sie Ihren Browser, und navigieren Sie zu [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-    1. Wählen Sie in der rechten Leiste **Agent erstellen** aus, um **Copilot Studio** zu starten.
+    1. Wählen Sie im Navigationsbereich **Agent erstellen** aus, um **Copilot Studio** zu starten.
 
         ![Screenshot: Link zum Erstellen eines Agents](../Prompts/Media/create-agent.png)
 
 - **Definieren des Agents (Registerkarte „Beschreiben“ oder „Konfigurieren“)**
 
-    1. Wählen Sie die Registerkarte **Beschreiben** aus, und verwenden Sie diesen Beispielprompt (oder schreiben Sie Ihren eigenen):
+    1. Wählen Sie die Registerkarte **Beschreiben** aus, wenn diese verfügbar ist, und verwenden Sie diesen Beispielprompt(oder schreiben Sie einen eigenen):
 
         ```text
         You’re a virtual assistant for our [project/team name]. Your role is to help with [key tasks]. Be concise, stay on-brand, and reference our shared resources when possible.
@@ -107,7 +107,7 @@ Nutzen Sie nun Ihre Erkenntnisse, und erstellen Sie in **Copilot Studio** einen 
 
         > **HINWEIS:** Sie können von Grund auf neu beginnen oder Ihren Agent auf einer Vorlage basieren, durch die Einstellungen und Anweisungen vorab aufgefüllt werden, die Sie später anpassen können.
 
-    1. Wenn **Beschreiben** nicht verfügbar ist, wechseln Sie zur Registerkarte **Konfigurieren**, und geben Sie dieselben Details manuell ein: Name, Beschreibung und Agent-Anweisungen.
+    1. Sie haben den vorherigen Schritt ausgeführt, falls die Registerkarte **Beschreiben** verfügbar war. Wenn sie nicht verfügbar ist, wechseln Sie zur Registerkarte **Konfigurieren**, und geben Sie dieselben Details manuell ein: Name, Beschreibung und Agent-Anweisungen.
 
         ![Screenshot: Konfigurieren des Agents](../Prompts/Media/name-describe-agent.png)
 
@@ -127,7 +127,7 @@ Nutzen Sie nun Ihre Erkenntnisse, und erstellen Sie in **Copilot Studio** einen 
 
 - **Testen und Erstellen**
 
-    1. Verwenden Sie das Feature **Testen** (im rechten Bereich während des gesamten Agent-Erstellungsprozesses verfügbar), um Ihren Entwurfs-Agent auszuprobieren und optimieren Sie problematische Aspekte.
+    1. Verwenden Sie das Feature **Testen** (im rechten Bereich im gesamten Agent-Erstellungsprozess verfügbar), um die Entwurfsversion Ihres Agents auszuprobieren und problematische Aspekte zu optimieren.
     2. Wählen Sie **Erstellen** aus, um den Agent zu veröffentlichen, sobald Sie zufrieden sind.
     3. Teilen Sie Ihren Agent mit anderen, oder öffnen Sie ihn zur sofortigen Verwendung.  
 

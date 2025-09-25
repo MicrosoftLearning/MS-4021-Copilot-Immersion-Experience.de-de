@@ -50,7 +50,7 @@ Verwenden Sie **Recherche-Agent**, um herauszufinden, wie Copilot oder Agents be
 
 **Schritte**:  
 
-- Erweitern Sie im Menü „Copilot Chat“ die Option **Agents**, und wählen Sie **Recherche-Agent** aus.  
+- Erweitern Sie im Menü „Copilot Chat“ die Option **Agents** (falls erforderlich), und wählen Sie **Recherche-Agent** aus.  
 
    ![Screenshot: Auswahl von „Recherche-Agent“ im Menü „M365 Copilot“](../Prompts/Media/researcher.png)  
 
@@ -62,11 +62,11 @@ Verwenden Sie **Recherche-Agent**, um herauszufinden, wie Copilot oder Agents be
 
     > **TIPP:** Konzentrieren Sie sich auf praktische, alltägliche Anwendungsfälle wie das schnelle Anzeigen eines Dokuments oder das Abrufen von Updates aus mehreren Quellen.
   
-    > **HINWEIS:** Die Recherche kann je nach Anfrage 5 bis 10 Minuten dauern. Die Antworten sind sehr detailliert. Während die Recherche läuft, können Sie denselben Prompt in Copilot Chat ausprobieren. Durch den Vergleich der beiden Ergebnisse können Sie gut erkennen, wie die beiden Tools die Aufgabe angehen.
-    
+    > **HINWEIS:** Recherche-Agent kann je nach Anfrage 5 bis 10 Minuten (oder mehr) beanspruchen. Die Antworten sind sehr detailliert. Während die Recherche läuft, können Sie denselben Prompt in Copilot Chat ausprobieren. Durch den Vergleich der beiden Ergebnisse können Sie gut erkennen, wie die beiden Tools die Aufgabe angehen.
+
 ### Aufgabe 3: Erstellen und Testen des Agents  
 
-Erstellen Sie nun in **Copilot Studio** einen einfachen Abruf-Agent, der sich Ihrer Herausforderung widmet.  
+Erstellen Sie nun in **Copilot Studio Lite** einen einfachen Abruf-Agent, der sich Ihrer Herausforderung widmet.  
 
 **Schritte**:  
 

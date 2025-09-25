@@ -21,7 +21,7 @@ Um diese Demos abzuschließen, müssen Sie das [Demo zu Recherche-Agent und Anal
 So greifen Sie auf diese Agents zu:  
 
 - Öffnen Sie die **App Copilot** von [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Verwenden Sie die **linke Navigation**, um **Recherche-Agent** oder **Analyse-Agent** auszuwählen.  
+- Wählen Sie aus dem Navigationsbereich **Recherche-Agent** oder **Analyse-Agent** aus.  
 
 > **Hinweis:** Sie müssen Recherche-Agent und Analyse-Agent auf interne Dateien (SharePoint/OneDrive) verweisen, um gegroundete Einblicke zu erhalten.
 
@@ -42,7 +42,7 @@ So greifen Sie auf diese Agents zu:
 
 > **WICHTIG:** Die Schritte 1–4 sollten zu Beginn des Trainings (wie auf Folie 5 angegeben) ausgeführt werden, damit Recherche-Agent genügend Zeit zum Vervollständigen des ersten Prompts hat.
 
-1. Öffnen Sie in der App Copilot im linken Navigationsbereich **Recherche-Agent**.  
+1. Öffnen Sie im Navigationsbereich **Recherche-Agent**.  
 
     ![Screenshot: Auswahl von „Recherche-Agent“ im Menü „M365 Copilot“](../Prompts/Media/researcher.png)  
 
@@ -72,7 +72,9 @@ Recherche-Agent führt Folgendes aus:
 
 ### Analyse-Agent: Kundensegmentierung und Finanzmodellierung
 
-1. Öffnen Sie in der App Copilot im linken Navigationsbereich **Analyse-Agent**.  
+**Hinweis:** Diese Demo wird nicht für die Ausführungsversion des Inhalts ausgeführt. Wechseln Sie stattdessen zur **Copilot Studio**-Demo.
+
+1. Öffnen Sie im Navigationsbereich **Analyse-Agent**.
 
     ![Screenshot: Auswahl von Analyst im M365 Copilot-Menü](../Prompts/Media/analyst.png)  
 

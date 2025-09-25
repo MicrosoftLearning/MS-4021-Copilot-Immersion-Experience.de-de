@@ -1,15 +1,15 @@
 ---
 demo:
-  title: Erstellen eines Agents mit Copilot Studio
+  title: Erstellen eines Agents mit Copilot Studio Lite
 ---
 
 [Zurück zum Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# Erstellen und Veröffentlichen eines Agents mithilfe von Copilot Chat
+# Erstellen und Veröffentlichen eines Agents mithilfe von Copilot Studio Lite
 
-In dieser Demo wird beschrieben, wie Sie mithilfe von Copilot Studio einen virtuellen Assistant über Copilot Chat erstellen und in Microsoft 365 Copilot veröffentlichen.
+In dieser Demo wird beschrieben, wie Sie mithilfe von Copilot Studio Lite einen virtuellen Assistant über Copilot Chat erstellen und in Microsoft 365 Copilot veröffentlichen.
 
 ## Demoeinrichtung
 
@@ -25,17 +25,17 @@ Für diese Demos müssen Sie die folgenden Dateien herunterladen:
 
 ## Gesprächsthemen
 
-In Copilot Studio können benutzerdefinierte Copilots erstellt werden, die auf bestimmte Projekte, Abteilungen oder Wissensdatenbanken zugeschnitten sind. Es ist möglich, ihnen eine Persönlichkeit zu verleihen, ihre Grenzen festzulegen und ihnen bestimmte Dokumente zur Verfügung zu stellen, damit diese qualitativ hochwertige, gegroundete Antworten geben können.
+In Copilot Studio Lite können benutzerdefinierte Copilots erstellt werden, die auf bestimmte Projekte, Abteilungen oder Wissensdatenbanken zugeschnitten sind. Es ist möglich, ihnen eine Persönlichkeit zu verleihen, ihre Grenzen festzulegen und ihnen bestimmte Dokumente zur Verfügung zu stellen, damit diese qualitativ hochwertige, gegroundete Antworten geben können.
 
 In dieser Demo wird ein virtueller Assistant für das ReleCloud-Drohnenlieferungsprojekt erstellt. Der Assistent weiß alles aus den hochgeladenen Inhalten und hilft bei der Beantwortung von Fragen des Teams. Das für zu einer Zeitersparnis und einer Verbesserung der Produktivität.
 
 ## Demoschritte
 
-### Schritt 1: Navigieren zu Copilot Studio
+### Schritt 1: Navigieren zu Copilot Studio Lite
 
-1. Wechseln Sie zu [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat), und wählen Sie auf der rechten Schiene **Agent erstellen** aus.
+1. Wechseln Sie zu [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat), und wählen Sie im Navigationsbereich **Agent erstellen** aus.
 
-    ![Screenshot: Link zum Erstellen eines Agents](../Prompts/media/create-agent.png)
+    ![Screenshot: Link zum Erstellen eines Agents](../Prompts/Media/create-agent.png)
 
 1. Melden Sie sich mit Ihren Anmeldeinformationen an.
 
@@ -73,18 +73,18 @@ In dieser Demo wird ein virtueller Assistant für das ReleCloud-Drohnenlieferung
     Friendly and professional
     ```
 
-> **WICHTIG:**  Je nach Umgebung werden Sie möglicherweise nicht zur Angabe aller Optionen aufgefordert. Wenn Sie nicht dazu aufgefordert werden, können Sie diese Informationen in Copilot Studio auf der Registerkarte **Konfigurieren** hinzufügen.
+> **WICHTIG:**  Je nach Umgebung werden Sie möglicherweise nicht zur Angabe aller Optionen aufgefordert. Wenn Sie nicht dazu aufgefordert werden, können Sie diese Informationen in Copilot Studio Lite auf der Registerkarte **Konfigurieren** hinzufügen.
 
 ### Schritt 3: Konfigurieren des Agents
 
-1. Klicken Sie auf **Konfigurieren**, um den Agent-Editor zu öffnen.
+1. Wählen Sie **Konfigurieren** aus, um den Agent-Editor zu öffnen.
 1. Lesen Sie den Abschnitt **Anweisungen**, und aktualisieren Sie ihn bei Bedarf:
 
     ```text
     Your name is Drone Delivery Project Manager Assistant. You serve as a virtual project manager for the ReleCloud drone delivery project, with comprehensive knowledge from shared documents. Be clear and concise, avoiding long answers. If the answer is unknown, refer to the drone delivery project manager.
     ```
 
-1. Scrollen Sie nach unten zum Abschnitt **Wissen**, und klicken Sie auf die Textblase **Nach Name suchen oder URL eingeben**. Wählen Sie **Dateien** aus, und fügen Sie der Wissensdatenbank des Agents die folgenden Dokumente hinzu:
+1. Scrollen Sie nach unten zum Abschnitt **Wissen**, und wählen Sie die Textblase **Nach Name suchen oder URL eingeben** aus. Wählen Sie **Dateien** aus, und fügen Sie der Wissensdatenbank des Agents die folgenden Dokumente hinzu:
 
     - **Delivery Drone Press Release.docx**
     - **Delivery Drone Troubleshooting.docx**
@@ -109,7 +109,7 @@ Probieren Sie, im rechten Bereich „Testen“ einige der folgenden Fragen zu st
 
 ### Schritt 5: Veröffentlichen und Freigeben
 
-1. Klicken Sie auf **Erstellen**, um den Agent zu veröffentlichen.
+1. Wählen Sie **Erstellen** aus, um den Agent zu veröffentlichen.
 1. Wählen Sie **Freigabeeinstellungen ändern** und dann **Jeder Benutzer in Ihrer Organisation** aus.
 1. Kopieren Sie den Freigabelink, und fügen Sie ihn für den erleichterten Zugriff in einen Teams-Chat ein.
 
