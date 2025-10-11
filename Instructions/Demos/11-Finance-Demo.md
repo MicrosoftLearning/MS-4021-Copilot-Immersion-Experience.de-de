@@ -29,6 +29,8 @@ Verwenden Sie Copilot in Excel, um Vertriebsdaten zu analysieren, wichtige Trend
 
 1. Navigieren Sie zur Registerkarte **„Vertrieb nach Produkt“**.  
 
+1. wählen Sie **Copilot** im Excel-Menüband und dann **App-Fähigkeiten** aus, um den Copilot-Bereich zu öffnen.
+
 1. Verwenden Sie Copilot, um die Tabelle zu sortieren, indem Sie die folgende Eingabeaufforderung eingeben:  
 
     ```text
@@ -117,7 +119,7 @@ Nutzen Sie Copilot Chat, um die finanzielle Leistung mit Branchen-Benchmarks und
 
 1. Öffnen Sie einen Browser, und navigieren Sie zu [M365copilot.com](https://m365copilot.com/).
 
-1. Stellen Sie sicher, dass der Webmodus ausgewählt ist.
+1. Vergewissern Sie sich, dass Web-Modus ausgewählt ist.
 
     ![Screenshot der Registerkarte Webmodus.](../Prompts/Media/web-mode.png)
 

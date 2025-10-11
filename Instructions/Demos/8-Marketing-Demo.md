@@ -99,7 +99,7 @@ Nutzen Sie Copilot Chat, um die Effektivität von vorgeschlagenen Social-Media-K
 
 1. Vergewissern Sie sich, dass Sie [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) heruntergeladen haben, und öffnen Sie das Dokument in Excel (im Web oder in der Desktop-Anwendung).
 
-1. Wählen Sie **Copilot** im Menüband, um den Bereich „Copilot“ zu öffnen.
+1. wählen Sie **Copilot** im Excel-Menüband und dann **App-Fähigkeiten** aus, um den Copilot-Bereich zu öffnen.
 
 1. Geben Sie den folgenden Prompt in Excel ein:
 

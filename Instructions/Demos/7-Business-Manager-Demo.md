@@ -29,6 +29,8 @@ Die für diese Demo benötigten spezifischen Dateien sind:
 
 1. **Navigieren Sie zur Registerkarte „Vertrieb nach Produkt“** in der Excel-Datei.
 
+1. wählen Sie **Copilot** im Excel-Menüband und dann **App-Fähigkeiten** aus, um den Copilot-Bereich zu öffnen.
+
 1. Verwenden Sie Copilot, um Ihren monatlichen Umsatzerlös zu berechnen:  
 
    Finden Sie zunächst heraus, welche Kategorie Ihres Unternehmens die meisten Einnahmen erzielt. Dieses Blatt enthält Umsatzdaten aus drei Jahren mit Tausenden von Zeilen, die den Umsatz nach Produkt nach Monat anzeigen. Obwohl es sich um eine Routineaufgabe handelt, kann diese Datenmenge unübersichtlich sein. Sie können Copilot bitten, den monatlichen Umsatzerlös nach Produkt schnell zu berechnen.
@@ -115,7 +117,7 @@ Nachdem wir nun die langsame Ladegeschwindigkeit als Hauptproblem identifiziert 
     Based on this information, suggest 5 strategic questions to ask the product team during our meeting tomorrow. Focus on identifying root causes, assessing risks, and brainstorming potential improvements.
     ```
 
-### Copilot in Outlook:
+### Copilot in Outlook
 
 In dieser Demo verwenden wir Copilot in Outlook, um ein Treffen mit dem Projektleiter für die Produktlinie der Ladegeräte für Elektrofahrzeuge zu vereinbaren und mögliche Lösungen zu besprechen.
 
@@ -129,7 +131,7 @@ In dieser Demo verwenden wir Copilot in Outlook, um ein Treffen mit dem Projektl
     I need to schedule a meeting with [/Pick a colleague] tomorrow afternoon to discuss the EV charger issue reports. Can you suggest a time that works? If they are unavailable, please suggest an alternative time.
     ```
 
-1. Der Kopilot sollte eine Uhrzeit und ein Datum für die Besprechung vorschlagen. Die Eingabeaufforderung zeigt ein Kalenderelement an, das gesendet oder bearbeitet werden kann, wählen Sie **Bearbeiten**.
+1. Der Copilot sollte eine Uhrzeit und ein Datum für die Besprechung vorschlagen. Die Eingabeaufforderung zeigt ein Kalenderelement an, das gesendet oder bearbeitet werden kann, wählen Sie **Bearbeiten**.
 
 1. Wechseln Sie zum Terminplanungs-Assistenten, um zu zeigen, dass die von Copilot vorgeschlagene Zeit für die Projektmanagerin bzw. den Projektmanager passt. Sie sollten beide Zeit haben.
 
