@@ -7,21 +7,21 @@ demo:
 
 # Demo zu Recherche-Agent und Analyse-Agent
 
-In dieser Demo wird die Verwendung von **Recherche-Agent** und **Analyse-Agent** erläutert – Experten-Agents, die in die Copilot-App integriert sind.  
+In dieser Demo wird die Verwendung von**Recherche-Agent** und**Analyse-Agent** erläutert – Experten-Agents, die in die Copilot-App integriert sind.  
 
 - **Recherche-Agent** unterstützt Sie bei mehrstufigen Rechercheaufgaben durch die Kombination von Webdaten mit den Dateien und dem Wissen Ihres Unternehmens.  
 - **Analyse-Agent** sieht sich als erfahrene wissenschaftliche Fachkraft für Daten, die erweiterte Datenanalyse- und Python-Ausführungen durchführen kann, selbst wenn Sie nicht wissen, wie diese programmiert werden.  
 
 ## Demoeinrichtung
 
-Um diese Demos abzuschließen, müssen Sie das [Demo zu Recherche-Agent und Analyse-Agent – Inhaltspaket](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW) herunterladen, das alle erforderlichen Dateien und Ressourcen enthält.  
+Um diese Demos abzuschließen, müssen Sie das[Demo zu Recherche-Agent und Analyse-Agent – Inhaltspaket](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip) herunterladen, das alle erforderlichen Dateien und Ressourcen enthält.  
 
-> **TIPP:** Bevor Sie die Demo vorführen, können Sie in Ihrer Demoumgebung eine SharePoint-Website erstellen, um alle Dateien für den einfachen Zugriff zu speichern. Alternativ können Sie die Dateien lokal speichern und in Ihren Prompts mithilfe von **/** auf diese verweisen.  
+> **TIPP:** Bevor Sie die Demo vorführen, können Sie in Ihrer Demoumgebung eine SharePoint-Website erstellen, um alle Dateien für den einfachen Zugriff zu speichern. Alternativ können Sie die Dateien lokal speichern und in Ihren Prompts mithilfe von**/** auf diese verweisen.  
 
 So greifen Sie auf diese Agents zu:  
 
-- Öffnen Sie die **App Copilot** von [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Wählen Sie aus dem Navigationsbereich **Recherche-Agent** oder **Analyse-Agent** aus.  
+- Öffnen Sie die**App Copilot** von[m365.cloud.microsoft](https://m365.cloud.microsoft).  
+- Wählen Sie aus dem Navigationsbereich**Recherche-Agent** oder**Analyse-Agent** aus.  
 
 > **Hinweis:** Sie müssen Recherche-Agent und Analyse-Agent auf interne Dateien (SharePoint/OneDrive) verweisen, um gegroundete Einblicke zu erhalten.
 
@@ -42,7 +42,7 @@ So greifen Sie auf diese Agents zu:
 
 > **WICHTIG:** Die Schritte 1–4 sollten zu Beginn des Trainings (wie auf Folie 5 angegeben) ausgeführt werden, damit Recherche-Agent genügend Zeit zum Vervollständigen des ersten Prompts hat.
 
-1. Öffnen Sie im Navigationsbereich **Recherche-Agent**.  
+1. Öffnen Sie im Navigationsbereich**Recherche-Agent**.  
 
     ![Screenshot: Auswahl von „Recherche-Agent“ im Menü „M365 Copilot“](../Prompts/Media/researcher.png)  
 
@@ -55,12 +55,12 @@ So greifen Sie auf diese Agents zu:
     Include insights from competitors and our past GTM campaigns.
     ```
 
-1. Anfügen von Verweisdateien mithilfe von `/` (Verweis auf SharePoint/OneDrive):  
+1. Anfügen von Verweisdateien mithilfe von`/` (Verweis auf SharePoint/OneDrive):  
 
    - **/SprintCycle Charger Product Launch.docx**  
-   - *(Optional)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - *(Optional)***/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Wählen Sie **Übermitteln** aus.  
+1. Wählen Sie**Übermitteln** aus.  
 
 Recherche-Agent führt Folgendes aus:  
 
@@ -72,9 +72,9 @@ Recherche-Agent führt Folgendes aus:
 
 ### Analyse-Agent: Kundensegmentierung und Finanzmodellierung
 
-**Hinweis:** Diese Demo wird nicht für die Ausführungsversion des Inhalts ausgeführt. Wechseln Sie stattdessen zur **Copilot Studio**-Demo.
+**Hinweis:** Diese Demo wird nicht für die Ausführungsversion des Inhalts ausgeführt. Wechseln Sie stattdessen zur**Copilot Studio**-Demo.
 
-1. Öffnen Sie im Navigationsbereich **Analyse-Agent**.
+1. Öffnen Sie im Navigationsbereich**Analyse-Agent**.
 
     ![Screenshot: Auswahl von Analyst im M365 Copilot-Menü](../Prompts/Media/analyst.png)  
 
@@ -85,13 +85,13 @@ Recherche-Agent führt Folgendes aus:
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. Fügen Sie die Datei mithilfe **+** an:  
+1. Fügen Sie die Datei mithilfe**+** an:  
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
     ![Screenshot: Anfügen von Dateien in Analyst](../Prompts/Media/Analyst-Attach-Files.png)  
 
-1. Wählen Sie **Übermitteln** aus.  
+1. Wählen Sie**Übermitteln** aus.  
 
 Analyse-Agent führt Folgendes aus:  
 
@@ -101,7 +101,7 @@ Analyse-Agent führt Folgendes aus:
 
 ### Zusätzliche Szenarios mit Analyse-Agent
 
-Sie können diese zusätzlichen Prompts ausführen, um unterschiedliche Ergebnisse zu erhalten. Jedes folgt demselben Muster: **Prompt → Datei anfügen → Senden → Ergebnisse überprüfen.**
+Sie können diese zusätzlichen Prompts ausführen, um unterschiedliche Ergebnisse zu erhalten. Jedes folgt demselben Muster:**Prompt → Datei anfügen → Senden → Ergebnisse überprüfen.**
 
 - **Finanzielle Prognosen**  
 
@@ -109,7 +109,7 @@ Sie können diese zusätzlichen Prompts ausführen, um unterschiedliche Ergebnis
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    Datei: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Datei:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Vertriebsleistung**  
 
@@ -118,7 +118,7 @@ Sie können diese zusätzlichen Prompts ausführen, um unterschiedliche Ergebnis
     along with a visualization of the best-selling products.
     ```  
 
-    Datei: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Datei:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Kampagnenleistung**  
 
@@ -127,13 +127,13 @@ Sie können diese zusätzlichen Prompts ausführen, um unterschiedliche Ergebnis
     and help me decide where to re-target our next campaign.
     ```  
 
-    Datei: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Datei:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## Wichtige Erkenntnisse
 
 - **Recherche-Agent** beschleunigt Strategie und Planung mit qualitativ hochwertiger Recherche.  
 - **Analyse-Agent** liefert datengesteuerte Erkenntnisse mit erweiterten Analysen und Visualisierungen.  
 
-Zusammen verkürzen Recherche-Agent und Analyse-Agent den Pfad **von Frage zu Erkenntnissen** und erledigen die Arbeit von Wochen in Minuten.  
+Zusammen verkürzen Recherche-Agent und Analyse-Agent den Pfad**von Frage zu Erkenntnissen** und erledigen die Arbeit von Wochen in Minuten.  
 
 [Zurück zum Index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
